@@ -1022,15 +1022,11 @@ body .close{
 
 @media only screen and (max-width: 500px) {
     .blogtitle_pixel {
-        font-size:1.0em;
+        margin: 2em 0em 0em 0em;
     }
 }
 
-@media only screen and (max-width: 750px) {
-    .blogtitle_pixel {
-        font-size:2.4em;
-    }
-}
+
 @media only screen and (max-width: 750px) {
 
 	.post .postcontent_pixel .image_wrap{
