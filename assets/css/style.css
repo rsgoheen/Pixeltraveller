@@ -242,6 +242,10 @@ body .close{
 
 @media only screen and (max-width: 750px) {
 
+	.header_pixel .blogtitle_pixel {
+		margin: 2em 0em 0em 0em !important;
+	}
+
 	.header_pixel{
 
 		width: 100%;
